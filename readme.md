@@ -43,9 +43,11 @@ Format: **UserID|TopID|PositiveBottomID|NegativeBottomID`**
 - `textfeatures` : Textual feature embedding.
 - `visualfeatures`:  Visual feature embedding.
 
+Download [here](https://drive.google.com/file/d/1xcp1xRdxc5f-Z8LF_PCEGh48L_0Hp4LF).
+
 ### /IQON3000
 
-Can be download from [here](https://drive.google.com/open?id=1sTfUoNPid9zG_MgV--lWZTBP1XZpmcK8).
+Download [here](https://drive.google.com/open?id=1sTfUoNPid9zG_MgV--lWZTBP1XZpmcK8).
 
 ## Metapath Data
 
