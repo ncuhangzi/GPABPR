@@ -1,0 +1,14 @@
+#adding ignorable data
+.idea
+.ipynb_checkpoints
+__pycache__
+feat/my
+feat/old
+feat/smallnwjc2vec
+feat/textfeatures
+feat/visualfeatures
+model
+data
+other
+new
+old
